@@ -1,5 +1,17 @@
 # MapsApp
 
+IMPORTAT!! The environment variables are created from .env file
+
+## STEPS
+
+1. Clone .env.template and rename to .env
+2. fill the variables with your own keys
+3. For developmente exucute:
+
+```
+npm run start
+```
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
 
 ## Development server
