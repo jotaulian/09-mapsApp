@@ -25,8 +25,6 @@ export class MarkersPageComponent implements AfterViewInit{
   public lngLat: LngLat= new LngLat(-3.74,36.7350);
 
   ngAfterViewInit(): void {
-      console.log(this.divMap);
-
       if(!this.divMap) throw 'The HTML element has not been found';
 
       this.map = new Map({
