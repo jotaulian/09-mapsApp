@@ -1,6 +1,6 @@
 # MapsApp
-
-IMPORTAT!! The environment variables are created from .env file
+Check [Live Website](https://67222e443b8ac4a3697afb84--jazzy-palmier-3ac226.netlify.app/)
+IMPORTANT!! The environment variables are created from .env file
 
 ## STEPS
 
